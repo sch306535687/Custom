@@ -10,6 +10,6 @@ public class MyScannerActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-         setContentView(R.layout.activity_myscanner);
+        setContentView(R.layout.activity_myscanner);
     }
 }
